@@ -1,2 +1,13 @@
 body { background-image: url(imagens/fundo2.png);
 background-attachment: scroll;}
+#home body { background-image: url(imagens/fundo.png);
+    background-attachment: scroll;}
+body {border: 5%;}
+div.relative {
+    position: relative;
+left: 85%;
+border: 10px;
+}
+div.capa {
+    
+}
